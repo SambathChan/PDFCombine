@@ -1,5 +1,3 @@
 # PDF Combine
 
-Language: C#
-
-PDF Library: PDFsharp (http://www.pdfsharp.net)
+Based on PDFsharp (http://www.pdfsharp.net)
