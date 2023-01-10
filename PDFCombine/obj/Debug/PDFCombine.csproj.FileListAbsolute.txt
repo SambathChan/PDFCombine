@@ -1,0 +1,17 @@
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe.config
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.exe
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PDFCombine.pdb
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PdfSharp.dll
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PdfSharp.xml
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.AssemblyReference.cache
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.Form1.resources
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.Properties.Resources.resources
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.GenerateResource.cache
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.CoreCompileInputs.cache
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.csproj.CopyComplete
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.exe
+C:\Users\Sambath\source\repos\PDFCombine\PDFCombine\obj\Debug\PDFCombine.pdb
